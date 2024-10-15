@@ -24,6 +24,7 @@ public class VariablesAndComments {
         double upperLimitOfDoubleDataType;
 
  //   Initialization of the above variable
+ //
 
         falseBooleanVariable = false;
         trueBooleanVariable = true;
