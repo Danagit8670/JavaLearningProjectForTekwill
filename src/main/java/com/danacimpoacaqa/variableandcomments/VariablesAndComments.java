@@ -23,8 +23,8 @@ public class VariablesAndComments {
         double lowerLimitOfDoubleDataType;
         double upperLimitOfDoubleDataType;
 
- //   Initialization of the above variable
- //
+ //   Initialization of the above variable .
+
 
         falseBooleanVariable = false;
         trueBooleanVariable = true;
