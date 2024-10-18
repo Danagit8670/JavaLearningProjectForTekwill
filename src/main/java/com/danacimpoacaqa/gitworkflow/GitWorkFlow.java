@@ -32,6 +32,11 @@ public class GitWorkFlow {
         System.out.println(step4);
         System.out.println(step5);
         System.out.println(step6);
+        System.out.println(step7);
+        System.out.println(step7);
+        System.out.println(step9);
+        System.out.println(step10);
+        System.out.println(step11);
     }
 
 
